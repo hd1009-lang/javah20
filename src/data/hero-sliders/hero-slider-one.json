@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Cơm Tấm",
+    "subtitle": "Cơm Sườn Chua Ngọt",
+    "image": "/assets/img/slider/slider-1.jpg",
+    "url": "/shop"
+  },
+  {
+    "id": 2,
+    "title": "Cơm Tấm",
+    "subtitle": "Cơm Sườn Chua Ngọt",
+    "image": "/assets/img/slider/slider-1.jpg",
+    "url": "/shop"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/icon-img/support-1.png",
+    "title": "Miễn Phí Ship",
+    "subtitle": "Miễn phí ship tất cả đơn hàng"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/icon-img/support-2.png",
+    "title": "Hỗ trợ 24/7",
+    "subtitle": "Hỗ trợ mọi lúc mọi nơi"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/icon-img/support-3.png",
+    "title": "Hoàn tiền",
+    "subtitle": "Hoàn tiền nếu đồ ăn dở"
+  },
+  {
+    "id": 4,
+    "image": "/assets/img/icon-img/support-4.png",
+    "title": "Giảm giá",
+    "subtitle": "Giảm giá đơn hàng khi mua số lượng lớn"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/foods/comgaxoimo.jpeg",
+    "title": "Cơm gà xối mỡ",
+    "subtitle": "Giá: ",
+    "price": "55.000 đ",
+    "link": "/shop"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/foods/comtam.jpg",
+    "title": "Cơm tấm",
+    "subtitle": "Giá: ",
+    "price": "50.000 đ",
+    "link": "/shop"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/foods/trasua.jpeg",
+    "title": "Trà Sữa",
+    "subtitle": "Giá: ",
+    "price": "20.000 đ",
+    "link": "/shop"
+  }
+]
